@@ -1,0 +1,20 @@
+{
+  "name": "jonathanong-textcomplete",
+  "description": "textcomplete",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "styles": [
+    "lib/index.css"
+  ],
+  "dependencies": {
+    "component-query": "git://github.com/npmcomponent/component-query.git",
+    "component-keyname": "git://github.com/npmcomponent/component-keyname.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-debounce": "git://github.com/npmcomponent/component-debounce.git",
+    "discore-closest": "git://github.com/npmcomponent/discore-closest.git",
+    "jonathanong-complement": "git://github.com/npmcomponent/jonathanong-complement.git",
+    "ianstormtaylor-next-sibling": "git://github.com/npmcomponent/ianstormtaylor-next-sibling.git",
+    "ianstormtaylor-previous-sibling": "git://github.com/npmcomponent/ianstormtaylor-previous-sibling.git"
+  },
+  "license": "MIT"
+}
